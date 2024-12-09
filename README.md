@@ -5,7 +5,8 @@
 > cukup hanya copy dan paste command dibawah pada termux.
 
 ```command
-curl -sSL https://raw.githubusercontent.com/mjoeyx/kalilinux-mjc/main/installkali | bash```
+curl -sSL https://raw.githubusercontent.com/mjoeyx/kalilinux-mjc/main/installkali | bash
+```
 
 ## Fitur
 * Added user kali ✅
