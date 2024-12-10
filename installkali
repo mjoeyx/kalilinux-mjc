@@ -11,7 +11,7 @@ printf "\a\e[34m
 #   #  #     # #        #     #        #  #    ## #     #  #   #
 #    # #     # ####### ###    ####### ### #     #  #####  #     #
 
-\e[0mkali-linux inataller Dev by \e[32mMᴊᴏᴇʏx🕸 \e[0m
+\e[0mkali-linux installer Dev by \e[32mMᴊᴏᴇʏx🕸 \e[0m
 
 "
 command -v x11-repo > /dev/null 2>&1 || { echo >&2 "x11-repo not found!, Installing... x11-repo"; apt install x11-repo -y 1; }
@@ -56,7 +56,7 @@ echo -e "
 NOTE
 
 ketik ☞ kalilinux ,untuk login kalilinux
-default password untum sudo kalilinux
+default password untuk sudo kalilinux
 Dev: Mᴊᴏᴇʏx🕸
 
 "
