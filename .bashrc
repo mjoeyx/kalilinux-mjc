@@ -7,9 +7,9 @@ echo "KaliLinux for termux-x11 by ©mjc
 commands:-
 desktop ☞Install xfce4-desktop 
 xstart   ☞Start termux-x11 gui
-myip    ☞Your ipaddress information
-termux  ☞ermux home directory
-Note    ☞Default password for sudo is kali"
+myip    ☞Informasi IP Anda
+termux  ☞Termux home directory
+Note    ☞Default Password untuk sudo su: kali"
 
 # Jika tidak berjalan secara interaktif
 case $- in
