@@ -3,7 +3,7 @@
 # for examples
 clear
 figlet KaliLinux
-echo "KaliLinux for termux-x11 by ©mjc
+echo "KaliLinux untuk Termux-x11 by ©mjc
 commands:-
 desktop ☞Install xfce4-desktop 
 xstart   ☞Start termux-x11 gui
